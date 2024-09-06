@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@slack/bolt": "^2.3.0",
+    "@slack/bolt": "^3.21.1",
     "dotenv": "^8.2.0",
     "mysql2": "^2.2.5"
   }
